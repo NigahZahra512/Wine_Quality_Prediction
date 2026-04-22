@@ -8,12 +8,12 @@ Model comparison (Logistic Regression, SVM, Decision Tree)
 Performance evaluation using accuracy and confusion matrix
 Probability visualization using Sigmoid function
 
-🧠 Machine Learning Models Used
+🧠# Machine Learning Models Used
 Logistic Regression
 Support Vector Machine (SVM - RBF Kernel)
 Decision Tree Classifier
 
-📈 Model Workflow
+📈# Model Workflow
 Data Loading
 Data Preprocessing
 Feature Scaling
